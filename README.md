@@ -1,6 +1,6 @@
 # COMPUTE + CAPITAL + HALLUCINATIONS
 
-# 08/31/2026 [英伟达宣布向联发科投资 35 亿美元，在 AI、PC 芯片、汽车三大领域达成合作](https://www.ithome.com/0/996/728.htm)  
+# 08/31/2026 [英伟达向联发科投资35亿美元](https://www.mediatek.com/zh-tw/press-room/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms)  
 
 
 
