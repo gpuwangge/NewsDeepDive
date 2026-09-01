@@ -1,8 +1,12 @@
 # COMPUTE + CAPITAL + HALLUCINATIONS
 
 # 08/31/2026 [英伟达向联发科投资35亿美元](https://www.mediatek.com/zh-tw/press-room/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms)  
-
-
+新闻回顾：  
+NVIDIA 想把自己的 GPU、NVLink 互连、软件生态和机柜级 AI 工厂架构，借助联发科的定制芯片、SoC、先进封装与量产能力，扩展到更多“从云到边缘”的 AI 硬件市场。  
+联发科将接入 NVIDIA 的 NVLink Fusion 平台，为超大规模云厂商、云服务商和前沿模型公司开发定制化的 XPU/AI 加速器，并将其接入 NVIDIA 的 NVLink 机柜级 AI 系统。  
+双方会继续合作开发后续数代的 RTX Spark 和 DGX Spark 芯片与电脑平台，目标是把 NVIDIA GPU 整合进联发科设计的 SoC。  
+在车用方面，联发科的 Dimensity Auto 平台会整合 NVIDIA 技术，为智能座舱提供 AI 能力和 RTX 图形能力，并可与 NVIDIA DRIVE AGX 协同工作。  
+NVIDIA 将投资 35 亿美元认购联发科发行的海外可转换公司债（ECB）。  
 
 
 # 算力 × 资本 × 幻觉 
