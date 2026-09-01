@@ -45,6 +45,7 @@ RTX Spark 是面向 Windows 笔记本和小型桌面机的 AI PC 平台。它们
 | 功耗重点 | 整机级、约 140 W SoC | 笔记本/小型桌面功耗范围 | 575 W 级 GPU 功耗 |
 | 主要定位 | 本地 LLM、AI 开发、原型和 Agent | 个人 AI、创作、轻薄 PC 与本地 Agent | 游戏、渲染、传统 GPU 计算和本地 AI |
 | 操作系统 | DGX OS / Linux AI 软件栈 | Windows on Arm 方向 | Windows/Linux，通常为 x86 PC |  
+
 总结：DGX Spark 与 RTX Spark 试图把“能装下大模型”带到桌面和笔记本；RTX 5090 则是在传统 PC 上把“能跑得快、能渲染、能打游戏”的单卡能力推到极致。
 
 ### 什么是Dimensity Auto 平台？什么是NVIDIA DRIVE AGX？
