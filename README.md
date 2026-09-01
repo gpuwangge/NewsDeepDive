@@ -1,4 +1,4 @@
-# COMPUTE × CAPITAL × HALLUCINATIONS
+# CCH新闻调查
 
 # 08/31/2026 [英伟达向联发科投资35亿美元](https://www.mediatek.com/zh-tw/press-room/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms)  
 ## 新闻回顾  
@@ -80,7 +80,7 @@ NVIDIA：高性能 GPU / AI、CUDA、DRIVE 软件与自动驾驶平台
 
 
 # 算力 × 资本 × 幻觉 
-COMPUTE × CAPITAL × HALLUCINATIONS  
+COMPUTE × CAPITAL × HALLUCINATIONS (CCH)  
 这是一个关注半导体、人工智能与科技产业新闻的分析频道。这里不只复述发布会、财报和融资消息，而是试图穿过热闹的标题、夸张的估值与产品叙事，追问一条更实际的问题：AI 时代究竟由什么驱动，又会由谁买单？  
 
 算力，是智能的物理底座。它包括芯片、GPU、HBM、先进封装、网络、数据中心、电力与散热系统；模型能力的每一次跃迁，背后都对应着真实的晶圆、带宽、机柜和能源消耗。  
