@@ -1,6 +1,6 @@
 # COMPUTE + CAPITAL + HALLUCINATIONS
 
-# [英伟达宣布向联发科投资 35 亿美元，在 AI、PC 芯片、汽车三大领域达成合作](https://www.ithome.com/0/996/728.htm)  
+# 08/31/2026 [英伟达宣布向联发科投资 35 亿美元，在 AI、PC 芯片、汽车三大领域达成合作](https://www.ithome.com/0/996/728.htm)  
 
 
 
