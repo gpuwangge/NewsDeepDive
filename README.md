@@ -1,5 +1,5 @@
 # CCH新闻调查
-# 09/01/2026 [李飞飞和世界模型Atlas](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09022026Atlas.md)
+# 09/01/2026 [李飞飞发布世界模型Atlas](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09022026Atlas.md)
 
 
 # 09/01/2026 [小米造芯、造车、造大模型](https://user.guancha.cn/main/content?id=1723560)
