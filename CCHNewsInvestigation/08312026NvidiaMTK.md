@@ -1,5 +1,5 @@
 
-# 08/31/2026 [英伟达向联发科投资35亿美元](https://www.mediatek.com/zh-tw/press-room/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms)  
+# 08/31/2026 [英伟达投资联发科](https://www.mediatek.com/zh-tw/press-room/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms)  
 ## 新闻回顾  
 NVIDIA 想把自己的 GPU、NVLink 互连、软件生态和机柜级 AI 工厂架构，借助联发科的定制芯片、SoC、先进封装与量产能力，扩展到更多“从云到边缘”的 AI 硬件市场。  
 联发科将接入 NVIDIA 的 NVLink Fusion 平台，为超大规模云厂商、云服务商和前沿模型公司开发定制化的 XPU/AI 加速器，并将其接入 NVIDIA 的 NVLink 机柜级 AI 系统。  
