@@ -1,4 +1,5 @@
 # CCH新闻调查
+# 09/04/2026 [英伟达收购抱抱脸](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09042026NvidiaHuggingFace.md)  
 # 09/03/2026 [OpenAI发布GPT-6 Astra](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09032026GPT6.md)  
 # 09/02/2026 [李飞飞发布世界模型Atlas](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09022026Atlas.md)
 # 09/01/2026 [小米造芯、造车、造大模型](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09012026XiaomiChip.md)
