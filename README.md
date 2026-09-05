@@ -3,7 +3,7 @@
 # 09/03/2026 [OpenAI发布GPT-6 Astra](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09032026GPT6.md)  
 # 09/02/2026 [李飞飞发布世界模型Atlas](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09022026Atlas.md)
 # 09/01/2026 [小米造芯、造车、造大模型](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09012026XiaomiChip.md)
-# 08/31/2026 [英伟达向联发科投资35亿美元](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/08312026NvidiaMTK.md)
+# 08/31/2026 [英伟达投资联发科](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/08312026NvidiaMTK.md)
 
 # 算力 × 资本 × 幻觉 (CCH)
 这是一个关注半导体、人工智能与科技产业新闻的分析频道。这里不只复述发布会、财报和融资消息，而是试图穿过热闹的标题、夸张的估值与产品叙事，追问一条更实际的问题：AI 时代究竟由什么驱动，又会由谁买单？  
