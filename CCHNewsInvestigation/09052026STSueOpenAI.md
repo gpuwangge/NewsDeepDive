@@ -1,4 +1,4 @@
-# 09/05/2026 [媒体起诉OpenAI及微软](Investing.com](https://cn.investing.com/news/economy-news/article-3553551)  
+# 09/05/2026 [媒体起诉OpenAI及微软](https://cn.investing.com/news/economy-news/article-3553551)  
 
 ## 一、新闻回顾
 《西雅图时报》（*The Seattle Times*）与《新闻日报》（*Newsday*）在纽约南区联邦地区法院起诉 OpenAI 及微软（Microsoft）。  
