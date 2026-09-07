@@ -1,18 +1,13 @@
 # 09/06/2026 [Google发布Gemini](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)  
----
-
 ## 1. 新闻回顾
 
 2026年9月2日，Google 宣布推出最新一代轻量级与专用模型——**Gemini 3.8 Flash** 和 **Gemini 3.8 Flash Cyber**。这是 Google 在短短 6 周内发布的第 3 款 Flash 系列模型（距 Gemini 3.7 Flash 发布仅隔 3 周）。
-
-新闻的核心要点及重要术语如下：
 
 *   **Gemini 3.8 Flash（全能推理与智能体模型）**：定位为“高能工作马（Workhorse Model）”，在长程软件工程（**Long-Horizon Software Engineering**）、智能体工作流（**Agentic Workflows**）和复杂多步推理上实现大幅跃升。在 **DeepSWE v1.1**、**Vals Finance Agent V2**、**Harvey's Legal Agent Benchmark** 以及 **HLE-Verified**（得分 54.9%）等基准测试中逼近甚至超越更高成本的前沿模型（Frontier Models）。其定价保持在促销价 **$0.75 / 百万输入 Token** 和 **$3.75 / 百万输出 Token**。
 *   **Gemini 3.8 Flash Cyber（网络安全专用模型）**：针对防御者的前沿级网络安全模型，擅长**自主漏洞发现（Autonomous Vulnerability Discovery）**与**自动补丁修复（Automated Patching）**。在 **CyberGym**（Pass@1）和 **CWE-Bench**（Pass@1 达 47.2%）等安全测试中表现出色，并在 Wiz 渗透测试和 Chrome 漏洞修复中验证了实战性价比。
 *   **训练与机制创新**：引入**递归评估与精炼的长运行智能体循环（Long-running Agentic Loops）**；新增**思考努力程度控制（Effort Levels）**，支持模型在复杂任务中执行深度推理与迭代工具调用（Tool Calling）。
 *   **生态与分发渠道**：网络安全版本通过全新的 **Fairwind Program** 计划向受信任的防御者（政府、关键基础设施运营商等）开放；开发者可在 **Google Antigravity**、**Google AI Studio**、**Stitch** 等平台调用，终端用户可通过 **Google AI Pro/Ultra** 订阅在 Gemini App 及 Workspace 中使用。
 
----
 
 ## 2. 技术分解（Q&A）
 
@@ -40,8 +35,6 @@
 ### Q4：开发者如何在实际开发中平衡“高性能”与“Token 消耗”？
 **A**：如果项目是极度依赖准确率的端到端软件工程或金融法律分析，应开启**高 Effort Level**，允许模型进行多轮工具调用与自我修正；如果是注重实时性与低成本的交互或简单 API 调用，可降低 Effort Level，或直接切回完全以效率为先的 Gemini 3.7 Flash。
 
----
-
 ## 3. 新闻分析
 
 ### 利益相关方分析
@@ -58,7 +51,6 @@
 *   **利**：迫使全行业加速对 Flash/Mini 级别高性价比模型的推理效率优化（如 o3-mini 等类比产品）。
 *   **弊**：Google 将“高阶推理（Reasoning）”降级到“Flash 定价区间”的定价策略，严重挤压了纯大模型创业公司的高价模型利润空间。
 
----
 
 ### 总结归纳
 
