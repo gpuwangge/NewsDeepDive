@@ -62,3 +62,5 @@ Gemini 3.8 Flash 的核心提升在于**长程代码编排与动态推理能力*
 **资本（Capital）**：这是一场典型的**价格战与基础设施护城河构建**。Google 通过 $0.75/$3.75 的促销价格进行资本补贴，意在彻底切断中小型 AI 独角兽靠“中端模型高溢价”盈利的后路，将行业天平全面拉向云服务基础设施消耗战。  
 
 **幻觉（Hallucination）**：通过强制引入 **Agentic Self-Correction Loop（智能体自我纠错循环）**、**外部 Tool Call（工具验证）** 以及针对 CBRN/Cyber 领攻防御的严密对齐（Alignment），Google 在长文本与多步代码生成中显著降低了致命幻觉率，为安全与工程落地奠定了可信基础。  
+
+[返回目录](https://github.com/gpuwangge/NewsDeepDive/blob/main/README.md)
