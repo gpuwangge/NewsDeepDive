@@ -57,6 +57,6 @@ Gemini 3.8 Flash 的核心提升在于**长程代码编排与动态推理能力*
 *   **弊**：Google 将“高阶推理（Reasoning）”降级到“Flash 定价区间”的定价策略，严重挤压了纯大模型创业公司的高价模型利润空间。
 
 
-**算力（Compute）**：Google 凭借 TPU 架构与自研网络集群，实现了“高频迭代 + 深度推理（Effort-based Search）”的算力压迫。通过把通常消耗巨量算力的长程 Agentic Loops 压低至 Flash 级别的推理成本，展示了其极致的算力优化与调度能力。
-**资本（Capital）**：这是一场典型的**价格战与基础设施护城河构建**。Google 通过 $0.75/$3.75 的促销价格进行资本补贴，意在彻底切断中小型 AI 独角兽靠“中端模型高溢价”盈利的后路，将行业天平全面拉向云服务基础设施消耗战。
-**幻觉（Hallucination）**：通过强制引入 **Agentic Self-Correction Loop（智能体自我纠错循环）**、**外部 Tool Call（工具验证）** 以及针对 CBRN/Cyber 领攻防御的严密对齐（Alignment），Google 在长文本与多步代码生成中显著降低了致命幻觉率，为安全与工程落地奠定了可信基础。
+**算力（Compute）**：Google 凭借 TPU 架构与自研网络集群，实现了“高频迭代 + 深度推理（Effort-based Search）”的算力压迫。通过把通常消耗巨量算力的长程 Agentic Loops 压低至 Flash 级别的推理成本，展示了其极致的算力优化与调度能力。  
+**资本（Capital）**：这是一场典型的**价格战与基础设施护城河构建**。Google 通过 $0.75/$3.75 的促销价格进行资本补贴，意在彻底切断中小型 AI 独角兽靠“中端模型高溢价”盈利的后路，将行业天平全面拉向云服务基础设施消耗战。  
+**幻觉（Hallucination）**：通过强制引入 **Agentic Self-Correction Loop（智能体自我纠错循环）**、**外部 Tool Call（工具验证）** 以及针对 CBRN/Cyber 领攻防御的严密对齐（Alignment），Google 在长文本与多步代码生成中显著降低了致命幻觉率，为安全与工程落地奠定了可信基础。  
