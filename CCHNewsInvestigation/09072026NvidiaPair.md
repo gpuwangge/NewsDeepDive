@@ -1,5 +1,5 @@
-# NVIDIA PAIR（Personal AI Router）发布新闻分析报告
 
+# 09/07/2026 [NVIDIA发布PAIR](https://www.oschina.net/news/502351/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx)  
 ## 一、新闻回顾
 
 **英伟达（NVIDIA）** 正式发布开源工具 **PAIR（Personal AI Router，个人 AI 路由器）**。PAIR 并非物理硬件路由器，而是一套部署于局域网的软件工具链，旨在自动发现并聚合家庭及本地网络中闲置的算力资源，构建私有化 AI 推理集群。
@@ -61,3 +61,5 @@
 * **算力**：PAIR 巧妙地将散落在消费端的“边缘碎片化算力”进行二次重构。它不再执念于单卡绝对性能的突破，而是通过分布式 Task-Grid 消化 Agent 带来的膨胀算力需求，实现了家庭级算力从“单兵作战”到“协同作战”的范式转移。
 * **资本**：英伟达以开源免费软件为“诱饵”，表面上在为用户省钱（榨干闲置硬件），本质上是以软件锁死硬件生态。通过拉高消费级硬件的组合价值，变相刺激用户购买更多 RTX/DGX 硬件，完成了从“ Selling Standard Hardware ”到“ Selling Personal Data Center ”的资本商业闭环。
 * **幻觉**：PAIR 为个人用户构建了一个“零成本拥有家庭数据中心”的美妙幻觉——但在实际落地中，局域网通信延迟、设备异构带来的负载不均、高功耗发热以及复杂的异构模型切分，依然是横亘在理想与现实之间的硬核工程壁垒。
+
+[返回目录](https://github.com/gpuwangge/NewsDeepDive/blob/main/README.md)
