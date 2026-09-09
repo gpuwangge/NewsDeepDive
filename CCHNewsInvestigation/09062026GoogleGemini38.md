@@ -1,4 +1,4 @@
-# 09/06/2026 [Google发布Gemini3.8](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)  
+# 09/06/2026 [谷歌发布Gemini3.8](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)  
 ## 1. 新闻回顾
 
 2026年9月2日，Google 宣布推出最新一代轻量级与专用模型——**Gemini 3.8 Flash** 和 **Gemini 3.8 Flash Cyber**。这是 Google 在短短 6 周内发布的第 3 款 Flash 系列模型（距 Gemini 3.7 Flash 发布仅隔 3 周）。
