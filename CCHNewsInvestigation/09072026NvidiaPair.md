@@ -1,5 +1,5 @@
 
-# 09/07/2026 [NVIDIA发布PAIR](https://www.oschina.net/news/502351/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx)  
+# 09/07/2026 [英伟达发布PAIR](https://www.oschina.net/news/502351/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx)  
 ## 一、新闻回顾
 
 **英伟达（NVIDIA）** 正式发布开源工具 **PAIR（Personal AI Router，个人 AI 路由器）**。PAIR 并非物理硬件路由器，而是一套部署于局域网的软件工具链，旨在自动发现并聚合家庭及本地网络中闲置的算力资源，构建私有化 AI 推理集群。
