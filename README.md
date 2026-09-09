@@ -1,7 +1,7 @@
 # CCH新闻调查
 # 09/08/2026 [高通与亚马逊建立数据中心](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09082026QualcommAmazon.md)  
-# 09/07/2026 [NVIDIA发布PAIR](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09072026NvidiaPair.md)  
-# 09/06/2026 [Google发布Gemini3.8](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09062026GoogleGemini38.md)  
+# 09/07/2026 [英伟达发布PAIR](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09072026NvidiaPair.md)  
+# 09/06/2026 [谷歌发布Gemini3.8](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09062026GoogleGemini38.md)  
 # 09/05/2026 [媒体起诉OpenAI及微软](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09052026STSueOpenAI.md)  
 # 09/04/2026 [英伟达收购抱抱脸](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09042026NvidiaHuggingFace.md)  
 # 09/03/2026 [OpenAI发布GPT-6 Astra](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09032026GPT6.md)  
