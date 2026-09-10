@@ -1,13 +1,15 @@
 # CCH新闻调查
-# 09/08/2026 [高通与亚马逊建立数据中心](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09082026QualcommAmazon.md)  
-# 09/07/2026 [英伟达发布PAIR](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09072026NvidiaPair.md)  
-# 09/06/2026 [谷歌发布Gemini3.8](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09062026GoogleGemini38.md)  
-# 09/05/2026 [媒体起诉OpenAI及微软](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09052026STSueOpenAI.md)  
-# 09/04/2026 [英伟达收购抱抱脸](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09042026NvidiaHuggingFace.md)  
+
+# 09/09/2026 [Apple发布iPhoneDuo](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09092026AppleiPhoneDuo.md)  
+# 09/08/2026 [Qualcomm与Amazon建立数据中心](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09082026QualcommAmazon.md)  
+# 09/07/2026 [NVidia发布PAIR](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09072026NvidiaPair.md)  
+# 09/06/2026 [Google发布Gemini3.8](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09062026GoogleGemini38.md)  
+# 09/05/2026 [媒体起诉OpenAI及Microsoft](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09052026STSueOpenAI.md)  
+# 09/04/2026 [NVidia收购HuggingFace](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09042026NvidiaHuggingFace.md)  
 # 09/03/2026 [OpenAI发布GPT-6 Astra](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09032026GPT6.md)  
 # 09/02/2026 [李飞飞发布世界模型Atlas](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09022026Atlas.md)
 # 09/01/2026 [小米造芯、造车、造大模型](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09012026XiaomiChip.md)
-# 08/31/2026 [英伟达投资联发科](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/08312026NvidiaMTK.md)
+# 08/31/2026 [NVidia投资联发科](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/08312026NvidiaMTK.md)
 
 # 算力 × 资本 × 幻觉 (CCH)
 这是一个关注半导体、人工智能与科技产业新闻的分析频道。这里不只复述发布会、财报和融资消息，而是试图穿过热闹的标题、夸张的估值与产品叙事，追问一条更实际的问题：AI 时代究竟由什么驱动，又会由谁买单？  
