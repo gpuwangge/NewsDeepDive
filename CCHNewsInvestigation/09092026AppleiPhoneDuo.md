@@ -1,4 +1,4 @@
-# 09/10/2026 [Apple发布iPhoneDuo](https://www.ithome.com/1/000/554.htm)
+# 09/09/2026 [Apple发布iPhoneDuo](https://www.ithome.com/1/000/554.htm)
 
 ## 新闻回顾
 
