@@ -1,4 +1,4 @@
-# 09/12/2026 [Nvidia投资Anthropic](https://www.storyboard18.com/brand-marketing/nvidia-may-invest-10-billion-in-anthropics-100-billion-ipo-report-110506.htm)
+# 09/11/2026 [Nvidia投资Anthropic](https://www.storyboard18.com/brand-marketing/nvidia-may-invest-10-billion-in-anthropics-100-billion-ipo-report-110506.htm)
 
 ## 新闻回顾
 
