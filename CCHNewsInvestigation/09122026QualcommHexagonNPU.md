@@ -1,4 +1,4 @@
-# 09/12/2026 [高通发布Hexagon NPU](https://www.qualcomm.com/news/onq/2026/09/hexagon-npu-agentic-ai-architecture)
+# 09/12/2026 [Qualcomm发布Hexagon NPU](https://www.qualcomm.com/news/onq/2026/09/hexagon-npu-agentic-ai-architecture)
 
 ## 新闻回顾
 高通（Qualcomm）今日在其官方博客上宣布了下一代移动平台的核心组件——全新架构的 **Hexagon NPU**。该NPU专为代理型AI（Agentic AI）设计，标志着端侧AI从“被动响应”向“主动执行”的跨越。此次架构升级引入了原生多模态并发处理（Multi-modal Concurrency）、端侧RAG（检索增强生成）硬件加速以及动态内存分配池（Dynamic Memory Pool）技术。通过提供突破性的端侧算力（预估超100 TOPS），高通旨在让智能手机和边缘设备能够完全脱离云端，在本地自主规划、调用工具并执行复杂的多步骤AI任务。
