@@ -1,4 +1,5 @@
 # CCH新闻调查
+# 09/12/2026 [Qualcomm发布Hexagon NPU](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09122026QualcommHexagonNPU.md)  
 # 09/11/2026 [Nvidia投资Anthropic](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09112026NvidiaInvestAnthropic.md)  
 # 09/10/2026 [Amazon将Nvidia GPU订单增加两倍](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09102026AmazonOrderGPU.md)  
 # 09/09/2026 [Apple发布iPhoneDuo](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09092026AppleiPhoneDuo.md)  
