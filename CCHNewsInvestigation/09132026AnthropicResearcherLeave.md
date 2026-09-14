@@ -2,7 +2,7 @@
 
 ## 新闻回顾
 
-随着前 **Anthropic** 安全研究员 **Joe Benton** 与前 **Google DeepMind** AI 安全研究员 **Josh Engels** 相继离职并加入非营利研究机构 **METR**，人工智能安全与生存风险问题再次成为舆论焦点。同时，Anthropic 预训练研究员 **Jacob Coxon** 宣布辞职，并在社交媒体上直言主流实验室正在向**自我改进的超人工智能（Self-improving Superintelligence）**疯狂冲刺，无异于“赌上全人类的命运”。现任 Anthropic 研究员 **Evan Hubinger** 对此表示认同，甚至评估未来十年内 AI 导致人类灭绝（Extinction Risk）的概率超过 **10%**。
+随着前 **Anthropic** 安全研究员 **Joe Benton** 与前 **Google DeepMind** AI 安全研究员 **Josh Engels** 相继离职并加入非营利研究机构 **METR**，人工智能安全与生存风险问题再次成为舆论焦点。同时，Anthropic 预训练研究员 **Jacob Coxon** 宣布辞职，并在社交媒体上直言主流实验室正在向自我改进的超人工智能（Self-improving Superintelligence）疯狂冲刺，无异于“赌上全人类的命运”。现任 Anthropic 研究员 **Evan Hubinger** 对此表示认同，甚至评估未来十年内 AI 导致人类灭绝（Extinction Risk）的概率超过 **10%**。
 
 相关事件涵盖的核心技术与行业术语包括：
 * **通用人工智能（AGI / Superintelligence）**：具备超越人类全方位智力水平、能独立进行科研与控制资源的 AI 系统。
@@ -12,8 +12,6 @@
 * **模型独立审计（Independent Security Audits）与第三方评估（METR）**：在模型部署或升级前，由非利益相关的第三方机构对其潜在危险能力进行实测与评估。
 
 ## 技术分解
-
-针对新闻中引发公众与行业讨论的技术细节与安全矛盾，以下通过 QA 形式进行深度拆解：
 
 ### Q1: 研究员提到的“自我改进的超人工智能（Self-improving Superintelligence）”在技术上是如何实现的？为什么它比普通大语言模型更危险？
 
