@@ -1,4 +1,5 @@
 # CCH新闻调查
+# 09/14/2026 [Samsung领投Nvidia AI芯片竞争对手](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09142026SamsungInvestAI.md)  
 # 09/13/2026 [多名Anthropic科学家离职](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09132026AnthropicResearcherLeave.md)  
 # 09/12/2026 [Qualcomm发布Hexagon NPU](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09122026QualcommHexagonNPU.md)  
 # 09/11/2026 [Nvidia投资Anthropic](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09112026NvidiaInvestAnthropic.md)  
@@ -15,7 +16,7 @@
 # 08/31/2026 [NVidia投资MediaTek](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/08312026NvidiaMTK.md)
 
 # 算力 × 资本 × 幻觉 (CCH)
-这是一个关注半导体、人工智能与科技产业新闻的分析频道。这里不只复述发布会、财报和融资消息，而是试图穿过热闹的标题、夸张的估值与产品叙事，追问一条更实际的问题：AI 时代究竟由什么驱动，又会由谁买单？  
+你好，我是王哥流浪天涯。这是一个关注半导体、人工智能与科技产业新闻的分析频道。这里不只复述发布会、财报和融资消息，而是试图穿过热闹的标题、夸张的估值与产品叙事，追问一条更实际的问题：AI 时代究竟由什么驱动，又会由谁买单？  
 
 算力，是智能的物理底座。它包括芯片、GPU、HBM、先进封装、网络、数据中心、电力与散热系统；模型能力的每一次跃迁，背后都对应着真实的晶圆、带宽、机柜和能源消耗。  
 
@@ -26,7 +27,7 @@
 在这里，我们分析每一条值得关注的新闻：一款芯片发布、一份财报、一轮融资、一项出口政策、一个新模型、一座数据中心。我们关心的不只是“发生了什么”，更关心它背后的技术约束、资金流向、供应链位置，以及哪些是信号，哪些只是噪声。  
 
 # COMPUTE × CAPITAL × HALLUCINATIONS (CCH)  
-This is an analysis channel focused on news in semiconductors, artificial intelligence, and the technology industry. Rather than merely recapping product launches, earnings reports, and fundraising announcements, it looks past attention-grabbing headlines, inflated valuations, and product narratives to ask a more practical question: What truly drives the AI era, and who will ultimately pay for it?
+Hi, I am Wangge. This is an analysis channel focused on news in semiconductors, artificial intelligence, and the technology industry. Rather than merely recapping product launches, earnings reports, and fundraising announcements, it looks past attention-grabbing headlines, inflated valuations, and product narratives to ask a more practical question: What truly drives the AI era, and who will ultimately pay for it?
 
 Compute is the physical foundation of intelligence. It encompasses chips, GPUs, HBM, advanced packaging, networking, data centers, power, and cooling systems. Every leap in model capability is backed by real wafers, bandwidth, racks, and energy consumption.
 
