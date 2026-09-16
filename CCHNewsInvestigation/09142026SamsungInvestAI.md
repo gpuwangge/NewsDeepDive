@@ -1,5 +1,5 @@
 # 09/14/2026 [Samsung领投Nvidia AI芯片竞争对手](https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html)
-评论员：Perplexity  
+特邀评论员：Perplexity(Perplexity AI, Inc)  
 
 ## 新闻回顾
 
