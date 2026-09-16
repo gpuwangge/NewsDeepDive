@@ -1,4 +1,4 @@
-# 09/16/2026 [Qualcomm和Amazon达成600亿美元AI合作](https://uk.finance.yahoo.com/news/qualcomm-edged-higher-amazon-opens-171713925.html)
+# 09/16/2026 [Qualcomm和Amazon达成AI合作](https://uk.finance.yahoo.com/news/qualcomm-edged-higher-amazon-opens-171713925.html)
 特邀评论员: Copilot (Microsoft Corporation)  
 责任编辑：Wangge
 
