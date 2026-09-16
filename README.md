@@ -1,4 +1,5 @@
 # CCH新闻调查
+# 09/16/2026 [Qualcomm和Amazon达成600亿美元AI合作](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09162026QualcommAmazonAI.md)  
 # 09/15/2026 [Meta发布Meta One](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09152026MetaOne.md)  
 # 09/14/2026 [Samsung领投Nvidia AI芯片竞争对手](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09142026SamsungInvestAI.md)  
 # 09/13/2026 [多名Anthropic科学家离职](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09132026AnthropicResearcherLeave.md)  
