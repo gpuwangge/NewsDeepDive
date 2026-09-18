@@ -1,4 +1,5 @@
 # CCH新闻调查
+# 09/18/2026 [华为发布Atlas 960E SuperPoD](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09182026HuaweiAtlas.md)  
 # 09/17/2026 [MediaTek发布Dimensity9600](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09172026Mediatek9600.md)  
 # 09/16/2026 [Qualcomm和Amazon达成AI合作](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09162026QualcommAmazonAI.md)  
 # 09/15/2026 [Meta发布Meta One](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09152026MetaOne.md)  
