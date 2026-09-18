@@ -55,13 +55,8 @@ NPO 的思路则是：
 
 若按华为公布的聚合数字平均拆算：
 
-\[
-\frac{8\ \text{EFLOPS FP8}}{4,096} \approx 1.95\ \text{PFLOPS FP8/NPU}
-\]
-
-\[
-\frac{16\ \text{EFLOPS FP4}}{4,096} \approx 3.91\ \text{PFLOPS FP4/NPU}
-\]
+- 平均每颗 NPU 的 FP8 峰值算力：8 EFLOPS ÷ 4,096 ≈ 1.95 PFLOPS FP8/NPU  
+- 平均每颗 NPU 的 FP4 峰值算力：16 EFLOPS ÷ 4,096 ≈ 3.91 PFLOPS FP4/NPU
 
 这说明华为瞄准的并不是一般企业推理服务器，而是与全球前沿 AI 集群相同量级的高密度训练与推理基础设施。
 
