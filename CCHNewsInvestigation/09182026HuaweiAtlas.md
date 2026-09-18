@@ -210,7 +210,3 @@ CUDA 的壁垒并不只是 API 本身，还包含多年累积的性能库、Prof
 | 幻觉 | “全球首个”“唯一”“百万 NPU”“99.8% 可用性”等表述主要是厂商发布口径。应重点核验测试条件、系统边界、模型类型、测量周期、故障定义，以及独立客户的生产部署数据。 |
 
 [返回目录](https://github.com/gpuwangge/NewsDeepDive/blob/main/README.md)
-
-```md
-# 09/17/2026 [华为发布首个基于NPO的Atlas 960E SuperPoD，瞄准十万亿参数模型](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09172026HuaweiAscend960ESuperPoD.md)
-```
