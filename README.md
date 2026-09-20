@@ -1,4 +1,5 @@
 # CCH新闻调查
+# 09/20/2026 [OpenAI推出JEV模型](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09202026ChatGPTJEV.md)
 # 09/19/2026 [Anthropic拟在IPO前发布全新AI模型](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09192026AnthropicIPOModel.md)
 # 09/18/2026 [华为发布Atlas 960E SuperPoD](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09182026HuaweiAtlas.md)  
 # 09/17/2026 [MediaTek发布Dimensity9600](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09172026Mediatek9600.md)  
