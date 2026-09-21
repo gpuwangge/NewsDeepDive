@@ -1,4 +1,4 @@
-# 09/20/2026 [TypeSafe AI推出JEV模型](https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/)
+# 09/20/2026 [TypeSafe AI发布JEV模型](https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/)
 特邀评论员: Copilot (Microsoft Corporation)  
 责任编辑：Wangge  
 
