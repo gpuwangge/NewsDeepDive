@@ -1,5 +1,6 @@
 # CCH新闻调查
-# 09/20/2026 [TypeSafe AI推出JEV模型](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09202026TypeSafeAIJEV.md)
+# 09/21/2026 [Meta发布AI Agent Muse](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09212026MetaMuse.md)
+# 09/20/2026 [TypeSafe AI发布JEV模型](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09202026TypeSafeAIJEV.md)
 # 09/19/2026 [Anthropic拟在IPO前发布全新AI模型](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09192026AnthropicIPOModel.md)
 # 09/18/2026 [华为发布Atlas 960E SuperPoD](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09182026HuaweiAtlas.md)  
 # 09/17/2026 [MediaTek发布Dimensity9600](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09172026Mediatek9600.md)  
