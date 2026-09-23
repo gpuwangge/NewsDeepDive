@@ -1,4 +1,5 @@
 # CCH新闻调查
+# 09/22/2026 [Qualcomm发布8 Elite Gen 6](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09222026Qualcomm8EG6.md)
 # 09/21/2026 [Meta发布AI Agent Muse](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09212026MetaMuse.md)
 # 09/20/2026 [TypeSafe AI发布JEV模型](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09202026TypeSafeAIJEV.md)
 # 09/19/2026 [Anthropic拟在IPO前发布全新AI模型](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09192026AnthropicIPOModel.md)
