@@ -1,4 +1,4 @@
-# 09/23/2026 [Qualcomm押注Agentic AI PC](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
+# 09/23/2026 [Qualcomm发布Agentic AI PC](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
 
 特邀评论员：DeepSeek(Hangzhou DeepSeek Ltd.)  
 责任编辑：Wangge 
