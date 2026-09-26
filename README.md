@@ -1,4 +1,5 @@
 # CCH新闻调查
+# 09/25/2026 [特习会AI白宫国宴](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09252026.md)
 # 09/24/2026 [Meta发布VR眼镜](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09242026MetaVR.md)
 # 09/23/2026 [Qualcomm押注Agentic AI PC](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09232026QualcommAgenticAI.md)
 # 09/22/2026 [Qualcomm发布8 Elite Gen 6](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09222026Qualcomm8EG6.md)
