@@ -1,4 +1,5 @@
 # CCH新闻调查
+# 09/26/2026 [马斯克公布超算中心Colossus计划](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09262026.md)
 # 09/25/2026 [特习会AI白宫国宴](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09252026.md)
 # 09/24/2026 [Meta发布VR眼镜](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09242026MetaVR.md)
 # 09/23/2026 [Qualcomm发布Agentic AI PC](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09232026QualcommAgenticAI.md)
