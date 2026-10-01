@@ -1,4 +1,5 @@
 # CCH新闻调查
+10/01/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10012026.md)  
 09/30/2026 [AI Agent自主越界危机](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09302026.md)  
 09/29/2026 [DeepSeek开源Huawei昇腾基础组件](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09292026.md)  
 09/28/2026 [AMD收购李飞飞World Labs](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09282026.md)  
