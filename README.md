@@ -26,8 +26,8 @@
 10/08/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10082026.md)  
 10/07/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10072026.md)  
 10/06/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10062026.md)  
-10/05/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10052026.md)  
 -->
+10/05/2026 [Qualcomm/Apple/Mediatek 2nm旗舰AI芯片对决](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10052026.md)  
 10/04/2026 [英伟达2350亿美元回购](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10042026.md)  
 10/03/2026 [Broadcom向Anthropic提供420亿美元融资](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10032026.md)  
 10/02/2026 [Anthropic斥巨资培养AI部署工程师](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10022026.md)  
