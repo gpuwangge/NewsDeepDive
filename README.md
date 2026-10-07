@@ -68,7 +68,7 @@
   <img src="https://github.com/gpuwangge/NewsDeepDive/blob/main/images/AIJuTou.jpg" alt="alt text">  
 </p>  
 
-Source: [Xiao Lin Shuo](https://www.youtube.com/watch?v=OcKl98ZQbMQ)  
+Image Source: [Xiao Lin Shuo](https://www.youtube.com/watch?v=OcKl98ZQbMQ)  
 
 # 算力 × 资本 × 幻觉 (CCH)
 你好，我是王哥流浪天涯。这是一个关注半导体、人工智能与科技产业新闻的分析频道。这里不只复述发布会、财报和融资消息，而是试图穿过热闹的标题、夸张的估值与产品叙事，追问一条更实际的问题：AI 时代究竟由什么驱动，又会由谁买单？  
