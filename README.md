@@ -24,11 +24,11 @@
 10/10/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10102026.md)  
 10/09/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10092026.md)  
 10/08/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10082026.md)  
-10/07/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10072026.md)  
-10/06/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10062026.md)  
+10/07/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10072026.md)   
 -->
+10/06/2026 [SpaceX 400亿采购NVidia芯片](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10062026.md) 
 10/05/2026 [Qualcomm/Apple/Mediatek 2nm旗舰AI芯片对决](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10052026.md)  
-10/04/2026 [英伟达2350亿美元回购](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10042026.md)  
+10/04/2026 [NVidia 2350亿美元回购](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10042026.md)  
 10/03/2026 [Broadcom向Anthropic提供420亿美元融资](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10032026.md)  
 10/02/2026 [Anthropic斥巨资培养AI部署工程师](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10022026.md)  
 10/01/2026 [Apple进军智能家居](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10012026.md)  
@@ -63,6 +63,11 @@
 09/02/2026 [李飞飞发布世界模型Atlas](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09022026Atlas.md)  
 09/01/2026 [Xiaomi造芯、造车、造大模型](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/09012026XiaomiChip.md)  
 08/31/2026 [NVidia投资MediaTek](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/08312026NvidiaMTK.md)  
+
+<p float="left">
+  <img src="https://github.com/gpuwangge/NewsDeepDive/blob/main/images/AIJuTou.jpg" alt="alt text">  
+</p>  
+Source: Xiao Lin Shuo  
 
 # 算力 × 资本 × 幻觉 (CCH)
 你好，我是王哥流浪天涯。这是一个关注半导体、人工智能与科技产业新闻的分析频道。这里不只复述发布会、财报和融资消息，而是试图穿过热闹的标题、夸张的估值与产品叙事，追问一条更实际的问题：AI 时代究竟由什么驱动，又会由谁买单？  
