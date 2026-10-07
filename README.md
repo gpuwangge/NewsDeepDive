@@ -67,6 +67,7 @@
 <p float="left">
   <img src="https://github.com/gpuwangge/NewsDeepDive/blob/main/images/AIJuTou.jpg" alt="alt text">  
 </p>  
+
 Source: [Xiao Lin Shuo](https://www.youtube.com/watch?v=OcKl98ZQbMQ)  
 
 # 算力 × 资本 × 幻觉 (CCH)
