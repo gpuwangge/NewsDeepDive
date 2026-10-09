@@ -23,8 +23,9 @@
 10/11/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10112026.md)  
 10/10/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10102026.md)  
 10/09/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10092026.md)  
-10/08/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10082026.md)  
 -->
+
+10/08/2026 [Amazon重返平板主战场](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10082026.md)  
 10/07/2026 [Anthropic发布Claude5.5](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10072026.md)   
 10/06/2026 [SpaceX 400亿采购NVidia芯片](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10062026.md)   
 10/05/2026 [Qualcomm/Apple/Mediatek芯片对决](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10052026.md)  
