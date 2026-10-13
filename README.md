@@ -19,9 +19,9 @@
 10/15/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10152026.md)  
 10/14/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10142026.md)  
 10/13/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10132026.md)  
-10/12/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10122026.md)  
 -->
 
+10/12/2026 [Googlebook 的跨设备愿景](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10122026.md)  
 10/11/2026 [NVidia与Microsoft联手推出AI平台](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10112026.md)  
 10/10/2026 [Cloudflare发布Clef-omni](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10102026.md)  
 10/09/2026 [Anthropic、OpenAI等公司的博弈](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10092026.md)  
