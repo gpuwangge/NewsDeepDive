@@ -16,9 +16,9 @@
 10/18/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10182026.md)  
 10/17/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10172026.md)  
 10/16/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10162026.md)  
-10/15/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10152026.md)  
 -->
 
+10/15/2026 [Apple与Meta深度合作](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10152026.md)  
 10/14/2026 [Character.AI申请破产保护](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10142026.md)  
 10/13/2026 [Apple HomeView重启智能家居](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10132026.md)  
 10/12/2026 [Googlebook 的跨设备愿景](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10122026.md)  
