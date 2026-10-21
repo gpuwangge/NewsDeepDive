@@ -10,9 +10,9 @@
 10/24/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10242026.md)  
 10/23/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10232026.md)  
 10/22/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10222026.md)  
-10/21/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10212026.md)  
 -->
 
+10/21/2026 [Qualcomm全球绩效裁员](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10212026.md)  
 10/20/2026 [Meta 11% GPU作为备用或处于故障状态](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10202026.md)  
 10/19/2026 [NVidia RTX Spark实测](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10192026.md)  
 10/18/2026 [Google开源Harness框架](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10182026.md)  
