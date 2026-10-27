@@ -5,9 +5,9 @@
 10/29/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10292026.md)  
 10/28/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10282026.md)  
 10/27/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10272026.md)  
-10/26/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10262026.md)  
 -->
 
+10/26/2026 [Anthropic递交IPO文件](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10262026.md)  
 10/25/2026 [NVidia发布399美元Microduck](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10252026.md)  
 10/24/2026 [RTX5090被批量拆芯改装](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10242026.md)  
 10/23/2026 [ASUS ProArt P16评测](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10232026.md)  
