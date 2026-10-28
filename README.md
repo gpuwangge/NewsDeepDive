@@ -3,9 +3,9 @@
 10/31/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10312026.md)  
 10/30/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10302026.md) 
 10/29/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10292026.md)  
-10/28/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10282026.md)  
 -->
 
+10/28/2026 [Exynos跑分领先Adreno](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10282026.md)  
 10/27/2026 [OpenAI联手Oracle](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10272026.md)  
 10/26/2026 [Anthropic递交IPO文件](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10262026.md)  
 10/25/2026 [NVidia发布399美元Microduck](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10252026.md)  
