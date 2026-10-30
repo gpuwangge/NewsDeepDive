@@ -1,9 +1,31 @@
 # CCH新闻调查
 <!--
+11/20/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11202026.md)  
+11/19/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11192026.md)  
+11/18/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11182026.md)  
+11/17/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11172026.md)  
+11/16/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11162026.md)  
+11/15/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11152026.md)  
+11/14/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11142026.md)  
+11/13/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11132026.md)  
+11/12/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11122026.md)  
+11/11/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11112026.md)  
+
+11/10/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11102026.md)  
+11/09/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11092026.md)  
+11/08/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11082026.md)  
+11/07/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11072026.md)  
+11/06/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11062026.md)  
+11/05/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11052026.md)  
+11/04/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11042026.md)  
+11/03/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11032026.md)  
+11/02/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11022026.md)  
+11/01/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11012026.md)  
+
 10/31/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10312026.md)  
-10/30/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10302026.md) 
 -->
 
+10/30/2026 [Microsoft 6万自愿离职计划](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10302026.md)  
 10/29/2026 [NVidia客户高管涉情报指控](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10292026.md)  
 10/28/2026 [Exynos跑分领先Adreno](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10282026.md)  
 10/27/2026 [OpenAI联手Oracle](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10272026.md)  
