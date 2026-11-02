@@ -19,9 +19,9 @@
 11/05/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11052026.md)  
 11/04/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11042026.md)  
 11/03/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11032026.md)  
-11/02/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11022026.md)  
 -->
 
+11/02/2026 [OLED iPad mini跑分曝光](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11022026.md)  
 11/01/2026 [Google数据中心卫星上线](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11012026.md)  
 10/31/2026 [Google发布Gemini 4 Carbon](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10312026.md)  
 10/30/2026 [Microsoft 6万自愿离职计划](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10302026.md)  
