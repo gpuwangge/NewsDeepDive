@@ -1,5 +1,16 @@
 # CCH新闻调查
 <!--
+11/30/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11302026.md)  
+11/29/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11292026.md)  
+11/28/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11282026.md)  
+11/27/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11272026.md)  
+11/26/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11262026.md)  
+11/25/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11252026.md)  
+11/24/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11242026.md)  
+11/23/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11232026.md)  
+11/22/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11222026.md)  
+11/21/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11212026.md)  
+
 11/20/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11202026.md)  
 11/19/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11192026.md)  
 11/18/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11182026.md)  
@@ -18,9 +29,9 @@
 11/06/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11062026.md)  
 11/05/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11052026.md)  
 11/04/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11042026.md)  
-11/03/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11032026.md)  
 -->
 
+11/03/2026 [Qualcomm验证HBC近存计算](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11032026.md)  
 11/02/2026 [OLED iPad mini跑分曝光](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11022026.md)  
 11/01/2026 [Google数据中心卫星上线](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11012026.md)  
 10/31/2026 [Google发布Gemini 4 Carbon](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/10312026.md)  
