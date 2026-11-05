@@ -28,9 +28,9 @@
 11/07/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11072026.md)  
 11/06/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11062026.md)  
 11/05/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11052026.md)  
-11/04/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11042026.md)  
 -->
 
+11/04/2026 [Microsoft升级DirectX光追架构](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11042026.md)  
 11/03/2026 [Qualcomm验证HBC近存计算](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11032026.md)  
 11/02/2026 [OLED iPad mini跑分曝光](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11022026.md)  
 11/01/2026 [Google数据中心卫星上线](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11012026.md)  
