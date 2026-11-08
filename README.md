@@ -24,9 +24,9 @@
 
 11/10/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11102026.md)  
 11/09/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11092026.md)  
-11/08/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11082026.md)  
 -->
 
+11/08/2026 [NVidia启动Jenson独立调查](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11082026.md)  
 11/07/2026 [Google校园AI遭诉](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11072026.md)  
 11/06/2026 [Mediatek/Intel合作摩擦](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11062026.md)  
 11/05/2026 [Microsoft升级DirectX光追架构(RTX5080)](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11052026.md)  
