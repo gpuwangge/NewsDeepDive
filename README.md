@@ -1,5 +1,16 @@
 # CCH新闻调查
 <!--
+12/10/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12102026.md)  
+12/09/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12092026.md)  
+12/08/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12082026.md)  
+12/07/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12072026.md)  
+12/06/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12062026.md)  
+12/05/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12052026.md)  
+12/04/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12042026.md)  
+12/03/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12032026.md)  
+12/02/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12022026.md)  
+12/01/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12012026.md)  
+
 11/30/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11302026.md)  
 11/29/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11292026.md)  
 11/28/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11282026.md)  
@@ -21,10 +32,9 @@
 11/13/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11132026.md)  
 11/12/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11122026.md)  
 11/11/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11112026.md)  
-
-11/10/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11102026.md)  
 -->
 
+11/10/2026 [Anthropic发布Fable/Mythos5.2](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11102026.md)  
 11/09/2026 [NVidia面临安全、治理与出口管制](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11092026.md)  
 11/08/2026 [NVidia启动Jenson独立调查](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11082026.md)  
 11/07/2026 [Google校园AI遭诉](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11072026.md)  
