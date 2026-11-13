@@ -30,9 +30,9 @@
 11/15/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11152026.md)  
 11/14/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11142026.md)  
 11/13/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11132026.md)  
-11/12/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11122026.md)  
 -->
 
+11/12/2026 [黄仁勋辞任NVidia掌门人](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11122026.md)  
 11/11/2026 [Google发布Gemini 4 Carbon](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11112026.md)  
 11/10/2026 [Anthropic发布Fable/Mythos5.2](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11102026.md)  
 11/09/2026 [NVidia面临安全、治理与出口管制](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11092026.md)  
