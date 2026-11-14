@@ -28,9 +28,9 @@
 11/17/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11172026.md)  
 11/16/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11162026.md)  
 11/15/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11152026.md)  
-11/14/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11142026.md)  
 -->
 
+11/14/2026 [OpenAI重组机器人团队](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11142026.md)  
 11/13/2026 [Edge0发布145B端侧模型](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11132026.md)  
 11/12/2026 [黄仁勋辞任NVidia掌门人](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11122026.md)  
 11/11/2026 [Google发布Gemini 4 Carbon](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11112026.md)  
