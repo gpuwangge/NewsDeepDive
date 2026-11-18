@@ -24,9 +24,9 @@
 
 11/20/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11202026.md)  
 11/19/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11192026.md)  
-11/18/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11182026.md)  
 -->
 
+11/18/2026 [Perplexity推出Multiagent](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11182026.md)  
 11/17/2026 [Alibaba发布Qwen4-Max](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11172026.md)  
 11/16/2026 [黄仁勋离任后...](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11162026.md)  
 11/15/2026 [马斯克签名者要求黄仁勋复职](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11152026.md)  
