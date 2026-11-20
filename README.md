@@ -1,5 +1,28 @@
 # CCH新闻调查
 <!--
+12/31/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12312026.md)  
+12/30/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12302026.md)  
+12/29/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12292026.md)  
+12/28/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12282026.md)  
+12/27/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12272026.md)  
+12/26/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12262026.md)  
+12/25/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12252026.md)  
+12/24/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12242026.md)  
+12/23/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12232026.md)  
+12/22/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12222026.md)  
+12/21/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12212026.md)  
+
+12/20/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12202026.md)  
+12/19/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12192026.md)  
+12/18/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12182026.md)  
+12/17/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12172026.md)  
+12/16/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12162026.md)  
+12/15/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12152026.md)  
+12/14/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12142026.md)  
+12/13/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12132026.md)  
+12/12/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12122026.md)  
+12/11/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12112026.md)  
+
 12/10/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12102026.md)  
 12/09/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12092026.md)  
 12/08/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/12082026.md)  
@@ -21,10 +44,9 @@
 11/23/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11232026.md)  
 11/22/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11222026.md)  
 11/21/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11212026.md)  
-
-11/20/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11202026.md)  
 -->
 
+11/20/2026 [Anthropic上市难挽美股跌势](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11202026.md)  
 11/19/2026 [Google发布Gemini 4 Neon](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11192026.md)  
 11/18/2026 [Perplexity推出Multiagent](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11182026.md)  
 11/17/2026 [Alibaba发布Qwen4-Max](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11172026.md)  
