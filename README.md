@@ -43,9 +43,9 @@
 11/24/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11242026.md)  
 11/23/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11232026.md)  
 11/22/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11222026.md)  
-11/21/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11212026.md)  
 -->
 
+11/21/2026 [Anthropic称Claude证明黎曼猜想](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11212026.md)  
 11/20/2026 [Anthropic上市难挽美股跌势](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11202026.md)  
 11/19/2026 [Google发布Gemini 4 Neon](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11192026.md)  
 11/18/2026 [Perplexity推出Multiagent](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11182026.md)  
