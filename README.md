@@ -41,9 +41,9 @@
 11/26/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11262026.md)  
 11/25/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11252026.md)  
 11/24/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11242026.md)  
-11/23/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11232026.md)  
 -->
 
+11/23/2026 [黄仁勋重返Nvidia](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11232026.md)  
 11/22/2026 [拿破仑给黄仁勋的警示](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11222026.md)  
 11/21/2026 [Anthropic称Claude证明黎曼猜想](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11212026.md)  
 11/20/2026 [Anthropic上市难挽美股跌势](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11202026.md)  
