@@ -37,9 +37,9 @@
 11/30/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11302026.md)  
 11/29/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11292026.md)  
 11/28/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11282026.md)  
-11/27/2026 [](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11272026.md)  
 -->
 
+11/27/2026 [Nvidia暂停出货东南亚四国](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11272026.md)  
 11/26/2026 [OpenClaw发布新版本](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11262026.md)  
 11/25/2026 [腾讯发布性价比模型Hy4 flash](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11252026.md)  
 11/24/2026 [人类正在努力读懂AI黎曼猜想](https://github.com/gpuwangge/NewsDeepDive/blob/main/CCHNewsInvestigation/11242026.md)  
